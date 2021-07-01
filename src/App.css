@@ -32,8 +32,8 @@ button {
 }
 
 .form > h1 {
-  margin-left: 95px;
-  margin-bottom: 35px;
+  margin-left: 55px;
+  margin-bottom: 55px;
 }
 
 .form > input,
@@ -62,7 +62,7 @@ textarea:focus {
 }
 
 .form > label {
-  margin-bottom: -14px;
+  margin-bottom: 4px;
   color: rgb(0, 0, 32);
   font-weight: bold;
 }
@@ -82,4 +82,5 @@ textarea:focus {
 
 .form > button:hover {
   background-color: rgb(10, 97, 209);
+  cursor: pointer;
 }
